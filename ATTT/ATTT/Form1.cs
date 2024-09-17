@@ -28,7 +28,7 @@ namespace ATTT
             int khoa = 0;
             if (int.TryParse(txtKhoa.Text.Trim(), out khoa))
             {
-                ketQua = cn.MaHoaThongTin.MaHoaCeasarCipher(duLieuCanMaHoa, khoa);
+                ketQua = cn.GiaiMaThongTin.GiaiMaThongTinCeaserCipher(duLieuCanMaHoa, khoa);
                 txtKetQua.Text = ketQua;
             }
             else

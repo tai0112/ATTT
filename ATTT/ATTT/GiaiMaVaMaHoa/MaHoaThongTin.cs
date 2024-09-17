@@ -19,7 +19,6 @@ namespace GiaiMaVaMaHoa
             foreach(char c in banRo)
             {
                 i = u.GetIndex(c);
-                Debug.WriteLine(i);
                 temp = (i + k) % 26;
                 banMa.Append(u.bangChuCai[temp]);
             }

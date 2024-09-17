@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Project\\ATTT\\",
+  "WorkspaceRootPath": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|d:\\project\\attt\\attt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|d:\\project\\attt\\attt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|d:\\project\\attt\\attt\\giaimavamahoa\\giaimathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\giaimavamahoa\\giaimathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|d:\\project\\attt\\attt\\giaimavamahoa\\chucnang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\giaimavamahoa\\chucnang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|d:\\project\\attt\\attt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|d:\\project\\attt\\attt\\giaimavamahoa\\mahoathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\giaimavamahoa\\mahoathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\giaimavamahoa\\mahoathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|d:\\project\\attt\\attt\\giaimavamahoa\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|c:\\users\\tai02\\desktop\\attt\\attt\\attt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|c:\\users\\tai02\\desktop\\attt\\attt\\attt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\giaimavamahoa\\giaimathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\giaimavamahoa\\giaimathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\giaimavamahoa\\chucnang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\giaimavamahoa\\chucnang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\giaimavamahoa\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\giaimavamahoa\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,89 +50,100 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\App.config",
+              "RelativeDocumentMoniker": "ATTT\\App.config",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\App.config",
+              "RelativeToolTip": "ATTT\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-17T17:21:29.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Project\\ATTT\\ATTT\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\Program.cs",
               "RelativeDocumentMoniker": "ATTT\\Program.cs",
-              "ToolTip": "D:\\Project\\ATTT\\ATTT\\Program.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\Program.cs",
               "RelativeToolTip": "ATTT\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T14:30:11.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ChucNang.cs",
-              "DocumentMoniker": "D:\\Project\\ATTT\\ATTT\\GiaiMaVaMaHoa\\ChucNang.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\GiaiMaVaMaHoa\\ChucNang.cs",
               "RelativeDocumentMoniker": "ATTT\\GiaiMaVaMaHoa\\ChucNang.cs",
-              "ToolTip": "D:\\Project\\ATTT\\ATTT\\GiaiMaVaMaHoa\\ChucNang.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\GiaiMaVaMaHoa\\ChucNang.cs",
               "RelativeToolTip": "ATTT\\GiaiMaVaMaHoa\\ChucNang.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T14:28:55.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T14:28:55.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Utils.cs",
-              "DocumentMoniker": "D:\\Project\\ATTT\\ATTT\\GiaiMaVaMaHoa\\Utils.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\GiaiMaVaMaHoa\\Utils.cs",
               "RelativeDocumentMoniker": "ATTT\\GiaiMaVaMaHoa\\Utils.cs",
-              "ToolTip": "D:\\Project\\ATTT\\ATTT\\GiaiMaVaMaHoa\\Utils.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\GiaiMaVaMaHoa\\Utils.cs",
               "RelativeToolTip": "ATTT\\GiaiMaVaMaHoa\\Utils.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T14:01:13.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T14:01:13.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GiaiMaThongTin.cs",
-              "DocumentMoniker": "D:\\Project\\ATTT\\ATTT\\GiaiMaVaMaHoa\\GiaiMaThongTin.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\GiaiMaVaMaHoa\\GiaiMaThongTin.cs",
               "RelativeDocumentMoniker": "ATTT\\GiaiMaVaMaHoa\\GiaiMaThongTin.cs",
-              "ToolTip": "D:\\Project\\ATTT\\ATTT\\GiaiMaVaMaHoa\\GiaiMaThongTin.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\GiaiMaVaMaHoa\\GiaiMaThongTin.cs",
               "RelativeToolTip": "ATTT\\GiaiMaVaMaHoa\\GiaiMaThongTin.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAZAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T13:58:54.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MaHoaThongTin.cs",
-              "DocumentMoniker": "D:\\Project\\ATTT\\ATTT\\GiaiMaVaMaHoa\\MaHoaThongTin.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\GiaiMaVaMaHoa\\MaHoaThongTin.cs",
               "RelativeDocumentMoniker": "ATTT\\GiaiMaVaMaHoa\\MaHoaThongTin.cs",
-              "ToolTip": "D:\\Project\\ATTT\\ATTT\\GiaiMaVaMaHoa\\MaHoaThongTin.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\GiaiMaVaMaHoa\\MaHoaThongTin.cs",
               "RelativeToolTip": "ATTT\\GiaiMaVaMaHoa\\MaHoaThongTin.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAAVAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T13:18:40.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Project\\ATTT\\ATTT\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\Form1.cs",
               "RelativeDocumentMoniker": "ATTT\\Form1.cs",
-              "ToolTip": "D:\\Project\\ATTT\\ATTT\\Form1.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\Form1.cs",
               "RelativeToolTip": "ATTT\\Form1.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAQwCAAAAAyAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T13:18:05.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Project\\ATTT\\ATTT\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\Form1.cs",
               "RelativeDocumentMoniker": "ATTT\\Form1.cs",
-              "ToolTip": "D:\\Project\\ATTT\\ATTT\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\Form1.cs [Design]",
               "RelativeToolTip": "ATTT\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T13:11:05.745Z",
