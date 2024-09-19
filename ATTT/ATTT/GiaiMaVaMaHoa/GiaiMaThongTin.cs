@@ -18,14 +18,22 @@ namespace GiaiMaVaMaHoa
             banMa = banMa.ToLower();
             foreach(char c in banMa)
             {
-                i = u.GetIndex(c);
-                j = i - k;
-                if(j < 0)
+                char l = ' ';
+                if (c != ' ')
                 {
-                    j += 26;
+                    i = u.GetIndex(c);
+                    j = i - k;  
+                    if (j < 0)
+                    {
+                        j += 26;
+                    }
+                    temp = j % 26;
+
+                    banRo.Append(u.bangChuCai[temp]);
+                }else
+                {
+                    banRo.Append(' ');
                 }
-                temp = j % 26;
-                banRo.Append(u.bangChuCai[temp]);
             }
             return banRo.ToString().ToUpper();
         }
