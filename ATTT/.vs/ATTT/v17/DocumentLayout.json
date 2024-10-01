@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|c:\\users\\tai02\\desktop\\attt\\attt\\attt\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -11,28 +15,32 @@
       "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\giaimavamahoa\\giaimathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\giaimavamahoa\\giaimathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|c:\\users\\tai02\\desktop\\attt\\attt\\attt\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\giaimavamahoa\\mahoathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\giaimavamahoa\\mahoathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\filehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\filehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\filehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\filehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\giaimavamahoa\\chucnang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\giaimavamahoa\\chucnang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\giaimavamahoa\\giaimathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\giaimavamahoa\\giaimathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|solutionrelative:attt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDCB90CA-EEBB-461B-B65C-43F6E29BEF68}|ATTT\\ATTT.csproj|C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\attt\\giaimavamahoa\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,19 +62,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Vigenere.cs",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\Vigenere.cs",
+              "RelativeDocumentMoniker": "ATTT\\Vigenere.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\Vigenere.cs",
+              "RelativeToolTip": "ATTT\\Vigenere.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAmwDUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:35:20.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vigenere.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\Vigenere.cs",
+              "RelativeDocumentMoniker": "ATTT\\Vigenere.cs",
+              "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\Vigenere.cs [Design]",
+              "RelativeToolTip": "ATTT\\Vigenere.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:32:53.243Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FileHelpers.cs",
               "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\FileHelpers.cs",
               "RelativeDocumentMoniker": "ATTT\\FileHelpers.cs",
               "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\FileHelpers.cs",
               "RelativeToolTip": "ATTT\\FileHelpers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T08:46:34.783Z"
+              "WhenOpened": "2024-09-19T08:46:34.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\App.config",
               "RelativeDocumentMoniker": "ATTT\\App.config",
@@ -78,15 +112,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\Program.cs",
               "RelativeDocumentMoniker": "ATTT\\Program.cs",
               "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\Program.cs",
               "RelativeToolTip": "ATTT\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T14:30:11.091Z"
+              "WhenOpened": "2024-09-17T14:30:11.091Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -96,13 +131,14 @@
               "RelativeDocumentMoniker": "ATTT\\GiaiMaVaMaHoa\\ChucNang.cs",
               "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\GiaiMaVaMaHoa\\ChucNang.cs",
               "RelativeToolTip": "ATTT\\GiaiMaVaMaHoa\\ChucNang.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T14:28:55.949Z"
+              "WhenOpened": "2024-09-17T14:28:55.949Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Utils.cs",
               "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\GiaiMaVaMaHoa\\Utils.cs",
               "RelativeDocumentMoniker": "ATTT\\GiaiMaVaMaHoa\\Utils.cs",
@@ -114,45 +150,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "GiaiMaThongTin.cs",
               "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\GiaiMaVaMaHoa\\GiaiMaThongTin.cs",
               "RelativeDocumentMoniker": "ATTT\\GiaiMaVaMaHoa\\GiaiMaThongTin.cs",
               "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\GiaiMaVaMaHoa\\GiaiMaThongTin.cs",
               "RelativeToolTip": "ATTT\\GiaiMaVaMaHoa\\GiaiMaThongTin.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAhwA4AAAAJAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAhwBkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:58:54.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T13:58:54.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MaHoaThongTin.cs",
               "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\GiaiMaVaMaHoa\\MaHoaThongTin.cs",
               "RelativeDocumentMoniker": "ATTT\\GiaiMaVaMaHoa\\MaHoaThongTin.cs",
               "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\GiaiMaVaMaHoa\\MaHoaThongTin.cs",
               "RelativeToolTip": "ATTT\\GiaiMaVaMaHoa\\MaHoaThongTin.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBEAAAAkAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAiwDkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:18:40.702Z"
+              "WhenOpened": "2024-09-17T13:18:40.702Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\Form1.cs",
               "RelativeDocumentMoniker": "ATTT\\Form1.cs",
               "ToolTip": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\Form1.cs",
               "RelativeToolTip": "ATTT\\Form1.cs",
-              "ViewState": "AQIAAFgAAAAAAAAAAAAcwF8AAAAJAAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwFsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T13:18:05.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tai02\\Desktop\\ATTT\\ATTT\\ATTT\\Form1.cs",
               "RelativeDocumentMoniker": "ATTT\\Form1.cs",

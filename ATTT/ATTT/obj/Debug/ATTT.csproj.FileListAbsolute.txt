@@ -18,3 +18,4 @@ C:\Users\tai02\Desktop\ATTT\ATTT\ATTT\obj\Debug\ATTT.csproj.GenerateResource.cac
 C:\Users\tai02\Desktop\ATTT\ATTT\ATTT\obj\Debug\ATTT.csproj.CoreCompileInputs.cache
 C:\Users\tai02\Desktop\ATTT\ATTT\ATTT\obj\Debug\ATTT.exe
 C:\Users\tai02\Desktop\ATTT\ATTT\ATTT\obj\Debug\ATTT.pdb
+C:\Users\tai02\Desktop\ATTT\ATTT\ATTT\obj\Debug\ATTT.Vigenere.resources

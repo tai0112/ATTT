@@ -16,7 +16,7 @@ namespace ATTT
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmChinh());
+            Application.Run(new Vigenere());
         }
     }
 }
